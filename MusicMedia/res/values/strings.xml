@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MusicMedia</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_next">Next</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="title_activity_mnext">Mnext</string>
+
+</resources>
