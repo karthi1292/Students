@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Androidtabactivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="PhotosActivity">photoshere</string>
+    <string name="videosActivity">videoshere</string>
+    <string name="SongsActivity">songshere</string>
+    <string name="title_activity_aain">AainActivity</string>
+
+</resources>
